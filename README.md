@@ -1,2 +1,2 @@
-# Java-DS
+# Data Structures in Java
 DS Walkthrough
